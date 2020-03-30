@@ -1,3 +1,3 @@
 # SimpleCalculator
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/FxyBsjC7pfA)
+[![Watch the video](SimpleCalculator.PNG)](https://youtu.be/FxyBsjC7pfA)
